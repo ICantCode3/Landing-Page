@@ -40,6 +40,12 @@ a:link {
     color: #E5E7EB;
     text-decoration: none;
 }
+.secondary1,
+a:link {
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+}
 
 /* WELCOME */
 .welcome {
@@ -124,6 +130,11 @@ main h2 {
     width: 160px;
     height: 160px;
 }
+.squaretext {
+    font-size: 18px;
+    font-weight: 100;
+    color: #1f2937;
+}
 
 /* QUOTE */
 .quote {
@@ -131,7 +142,7 @@ main h2 {
     flex-direction: column;
     justify-content: center;
     background-color: #E5E7EB;
-    padding: 7em 13em;
+    padding: 7em 18em;
 }
 
 .quote p {
